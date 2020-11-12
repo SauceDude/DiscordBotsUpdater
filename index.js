@@ -8,7 +8,7 @@ client.login(config.token)
 
 client.on('ready', async () => {
 
-    something = await axios.post(`https://discord.bots.gg/api/v1/bots/${client.user.id}/stats`, {
+    updater = await axios.post(`https://discord.bots.gg/api/v1/bots/${client.user.id}/stats`, {
         guildCount: client.guilds.cache.size
     }, {
         headers: {Authorization: config.auth}
