@@ -1,3 +1,6 @@
+![Banner](https://cdn.discordapp.com/attachments/772572204784287768/776560295606353950/1500x500.png)
+[Credit](https://pikadude.me/)
+
 # DiscordBots Server Count Updater
 Simple Code to Update your Server Count on Discord.Bots.gg
 
@@ -10,3 +13,6 @@ Simple Code to Update your Server Count on Discord.Bots.gg
 
 
 Feel free to re-use this code and implement it differently into your own code, i decided to make it because i struggled to set this up the first time
+
+```NOTE: THIS REPOSITORY IS NOT OWNED, MAINTAINED OR ASSOCIATED WITH/BY DISCORD.BOTS.GG```
+
