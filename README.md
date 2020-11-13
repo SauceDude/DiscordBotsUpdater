@@ -1,5 +1,6 @@
 ![Banner](https://cdn.discordapp.com/attachments/772572204784287768/776560295606353950/1500x500.png)
-[Credit](https://pikadude.me/)
+[Art Credit](https://pikadude.me/) | [Asset Owner](https://discord.bots.gg/)
+
 
 # DiscordBots Server Count Updater
 Simple Code to Update your Server Count on Discord.Bots.gg
