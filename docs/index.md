@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+![Banner](https://cdn.discordapp.com/attachments/772572204784287768/776560295606353950/1500x500.png)
+[Artist](https://pikadude.me/) | [Owner](https://discord.bots.gg/)
 
-You can use the [editor on GitHub](https://github.com/SauceDude/DiscordBotsUpdater/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# DiscordBots Server Count Updater
+Simple Code to Update your Server Count on Discord.Bots.gg
 
-### Markdown
+# Setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> 1. Download the Repo [here](https://github.com/SauceDude/DiscordBotsUpdater/archive/main.zip)
+> 2. Run `npm i discord.js` and `npm i axios` in the terminal (Make Sure you're In the Right Folder)
+> 3. Go into the `./config.json` file and enter your auths
+> 4. Open the Start.bat File
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Feel free to re-use this code and implement it differently into your own code, i decided to make it because i struggled to set this up the first time
 
-- Bulleted
-- List
+```NOTE: THIS REPOSITORY IS NOT OWNED, MAINTAINED OR ASSOCIATED WITH/BY DISCORD.BOTS.GG```
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SauceDude/DiscordBotsUpdater/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
